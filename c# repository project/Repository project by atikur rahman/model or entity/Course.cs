@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Repository_project_by_atikur_rahman.model_or_entity
+{
+    public class Student : BaseModel
+    {
+        public string Name { get; set; }
+        public Course EnrolledCourse { get; set; }
+    }
+}

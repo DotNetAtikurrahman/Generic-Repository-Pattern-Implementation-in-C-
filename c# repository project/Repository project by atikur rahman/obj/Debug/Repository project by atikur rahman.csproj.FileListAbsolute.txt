@@ -1,0 +1,7 @@
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\bin\Debug\Repository project by atikur rahman.exe.config
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\bin\Debug\Repository project by atikur rahman.exe
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\bin\Debug\Repository project by atikur rahman.pdb
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\obj\Debug\Repository project by atikur rahman.csproj.AssemblyReference.cache
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\obj\Debug\Repository project by atikur rahman.csproj.CoreCompileInputs.cache
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\obj\Debug\Repository project by atikur rahman.exe
+D:\.NETdeveloper My Reasourses\C#PRACTISE\1294236\Repository project by atikur rahman\obj\Debug\Repository project by atikur rahman.pdb
